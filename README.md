@@ -1,9 +1,9 @@
 # IPL Data Analysis using Power BI
 
 ## 📌 Project Overview
-This project focuses on analyzing Indian Premier League (IPL) data using **Power BI**.  
-The IPL is one of the most popular T20 cricket leagues in the world, generating a huge amount of match data every season.  
-The goal of this project is to explore the data, create interactive dashboards, and generate insights into batting, bowling, toss, and venue performances.
+1.This project focuses on analyzing Indian Premier League (IPL) data using **Power BI**.  
+2.The IPL is one of the most popular T20 cricket leagues in the world, generating a huge amount of match data every season.  
+3.The goal of this project is to explore the data, create interactive dashboards, and generate insights into batting, bowling, toss, and venue performances.
 
 ## 📂 Datasets Used
 - **Matches Dataset**: Team names, winners, toss details, stadiums, results, season  
@@ -45,7 +45,7 @@ The goal of this project is to explore the data, create interactive dashboards, 
 - **Most common toss decision** → Field first
 - **Team that won the most tosses** →Mumbai Indians (85)
 - **Highest wins after winning toss** → Mumbai Indians (48)
-- **Kolkata Knight Riders & Chennai Super Kings also strong after toss wins
+- Kolkata Knight Riders & Chennai Super Kings also strong after toss wins
 - **Team-wise toss choices vary** → some prefer fielding, some prefer batting 
 
 ### 🏟️ Team & Venue Insights
