@@ -23,37 +23,37 @@ The goal of this project is to explore the data, create interactive dashboards, 
 
 
 ### 🏏 Batting Insights
-Top run scorers → SK Raina, V Kohli, RG Sharma, G Gambhir, DA Warner
-Lowest run scorers → Abdur Razzak, C Nanda, IC Pandey, L Albish
-Team with Most Fours → Mumbai Indians 
-Team with Most Sixes → Royal Challengers Bangalore
-Batsman with Most Fours → G Gambhir
-Batsman with Most Sixes → CH Gayle
+- Top run scorers → SK Raina, V Kohli, RG Sharma, G Gambhir, DA Warner
+- Lowest run scorers → Abdur Razzak, C Nanda, IC Pandey, L Albish
+- Team with Most Fours → Mumbai Indians 
+- Team with Most Sixes → Royal Challengers Bangalore
+- Batsman with Most Fours → G Gambhir
+- Batsman with Most Sixes → CH Gayle
 
 
 ### 🎯 Bowling & Fielding Insights
-Highest wicket-taker → SL Malinga (154 wickets)
-Other top bowlers → A Mishra, Harbhajan Singh, PP Chawla, DJ Bravo
-Bowlers with zero wickets → AA Kazi, Abdur Razzak, AC Voges, AS Raut
-Best economy rates among top bowlers → Harbhajan Singh (7.10), SL Malinga (7.12)
-Top fielder by dismissals → KD Karthik (101: 88 catches + 13 run-outs)
-Other top fielders → MS Dhoni (96), SK Raina (96), AB de Villiers (94)
-Virat Kohli & RG Sharma also among leading fielders
+- Highest wicket-taker → SL Malinga (154 wickets)
+- Other top bowlers → A Mishra, Harbhajan Singh, PP Chawla, DJ Bravo
+- Bowlers with zero wickets → AA Kazi, Abdur Razzak, AC Voges, AS Raut
+- Best economy rates among top bowlers → Harbhajan Singh (7.10), SL Malinga (7.12)
+- Top fielder by dismissals → KD Karthik (101: 88 catches + 13 run-outs)
+- Other top fielders → MS Dhoni (96), SK Raina (96), AB de Villiers (94)
+- Virat Kohli & RG Sharma also among leading fielders
 
 
 ### 🎲 Toss & Match Insights
-Most common toss decision → Field first
-Team that won the most tosses →Mumbai Indians (85)
-Highest wins after winning toss → Mumbai Indians (48)
-Kolkata Knight Riders & Chennai Super Kings also strong after toss wins
-Team-wise toss choices vary → some prefer fielding, some prefer batting 
+-  Most common toss decision → Field first
+- Team that won the most tosses →Mumbai Indians (85)
+- Highest wins after winning toss → Mumbai Indians (48)
+- Kolkata Knight Riders & Chennai Super Kings also strong after toss wins
+- Team-wise toss choices vary → some prefer fielding, some prefer batting 
 
 ### 🏟️ Team & Venue Insights
-Most successful team → Mumbai Indians (92 wins)
-Followed by Chennai Super Kings (79) & Kolkata Knight Riders (77)
-City with most matches hosted → Mumbai
-Other top hosting cities → Bangalore, Kolkata, Delhi, Hyderabad
-Lucky stadiums for top teams: M. Chinnaswamy, Eden Gardens, Feroz Shah Kotla, Wankhede
+- Most successful team → Mumbai Indians (92 wins)
+- Followed by Chennai Super Kings (79) & Kolkata Knight Riders (77)
+- City with most matches hosted → Mumbai
+- Other top hosting cities → Bangalore, Kolkata, Delhi, Hyderabad
+- Lucky stadiums for top teams: M. Chinnaswamy, Eden Gardens, Feroz Shah Kotla, Wankhede
 
 
 ## ✅ Recommendations
