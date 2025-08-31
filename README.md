@@ -1,0 +1,47 @@
+# IPL Data Analysis using Power BI
+
+## 📌 Project Overview
+This project focuses on analyzing Indian Premier League (IPL) data using **Power BI**.  
+The IPL is one of the most popular T20 cricket leagues in the world, generating a huge amount of match data every season.  
+The goal of this project is to explore the data, create interactive dashboards, and generate insights into batting, bowling, toss, and venue performances.
+
+## 📂 Datasets Used
+- **Matches Dataset**: Team names, winners, toss details, stadiums, results, season  
+- **Deliveries Dataset**: Runs, wickets, bowlers, batsmen, fielders, dismissals  
+- Format: CSV files
+
+## 🔎 Approach / Methodology
+1. Data Collection – Matches & Deliveries datasets  
+2. Data Cleaning & Preparation  
+3. Data Modeling – Relationships in Power BI  
+4. Dashboard Creation – Visuals for batting, bowling, toss, venues  
+5. Insights Generation  
+
+## 📊 Dashboards & Insights
+
+### 🏏 Batting Insights
+![Batting Dashboard](dashboard_images/slide_5.png)
+
+### 🎯 Bowling & Fielding Insights
+![Bowling Dashboard](dashboard_images/slide_7.png)
+
+### 🎲 Toss & Match Insights
+![Toss Dashboard](dashboard_images/slide_9.png)
+
+### 🏟️ Team & Venue Insights
+![Team Venue Dashboard](dashboard_images/slide_11.png)
+
+## ✅ Recommendations
+- Use venue data to optimize match strategy  
+- Pick consistent players during auctions  
+- Focus on strong finishers and reliable bowlers  
+- Improve fielding performance (catches & run-outs are match changers)  
+- Toss decisions (bat/field) should depend on ground and opponent  
+
+## 🏁 Conclusion
+- Data analytics reveals **top performers** and **winning strategies** in IPL  
+- Toss plays an important role but is **not the only deciding factor**  
+- Stadiums and venues significantly influence team performance  
+- Power BI dashboards make IPL data analysis more **interactive & insightful**  
+- Sports analytics can boost **team strategies, fan engagement, and broadcasting decisions**  
+
